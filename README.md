@@ -13,9 +13,8 @@ I'm a passionate developer focused on crafting smart solutions using **n8n**, **
 📂 Explore my repositories for open-source automation projects, AI scripts, and web design kits.
 
 Let's build the future of tech — one smart workflow at a time.
-
-🌐 Portfolio: [YourWebsite.com]  
-📬 Contact: [your.email@example.com]
+ 
+📬 Contact: [feneoxcom@gmail.com]
 
 
 
