@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @feneox
-- 👀 I’m interested in cars, robotics, electronics, AI projects (especially related to cars), JavaScript, and modern websites (including animations).
-- 🌱 I’m currently learning about responsive web design and enhancing website features with Modern parallax effects and animations.
-- 💞️ I’m looking to collaborate on  projects related to car tech, AI innovation, and creative, modern web designs.
-- 📫 How to reach me You can connect with me through my YouTube channel on cars or [provide any contact link if desired].
-- 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I see cars as pieces of art and love merging AI tech and design in my projects!
+🚀 Automation Developer | Web Designer | AI Tools Builder  
+🎯 Building automation workflows, AI-powered tools & modern web experiences
+
+I'm a passionate developer focused on crafting smart solutions using **n8n**, **AI agents**, **JavaScript**, and **web technologies**. I specialize in creating:
+
+- ⚙️ Scalable automation workflows (n8n, Zapier alternatives)  
+- 🌐 Modern responsive websites (HTML, CSS, JS, UI/UX)  
+- 🤖 AI tools, chatbot flows & productivity boosters  
+- 🧠 Prompt engineering & digital products for creators
+
+💡 I believe in automation-first design and building for speed, utility, and user experience.
+
+📂 Explore my repositories for open-source automation projects, AI scripts, and web design kits.
+
+Let's build the future of tech — one smart workflow at a time.
+
+🌐 Portfolio: [YourWebsite.com]  
+📬 Contact: [your.email@example.com]
+
 
 
 
